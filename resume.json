@@ -1,0 +1,45 @@
+{
+  "basics": {
+    "name": "Jane Doe",
+    "label": "Full Stack Engineer",
+    "email": "jane@example.com",
+    "summary": "Building scalable systems & interactive experiences.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "janedoe",
+        "url": "https://github.com/janedoe"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "janedoe",
+        "url": "https://linkedin.com/in/janedoe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TechCorp",
+      "position": "Senior Engineer",
+      "startDate": "2022-01-01",
+      "summary": "Leading backend migration to Go."
+    },
+    {
+      "name": "StartupInc",
+      "position": "Software Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Full stack development with MERN."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": ["React", "Node.js", "TypeScript"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["AWS", "Docker", "CI/CD"]
+    }
+  ]
+}
